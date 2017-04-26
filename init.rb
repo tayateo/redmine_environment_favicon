@@ -2,7 +2,7 @@ plugin_name = :vhod_environment_favicon
 
 Redmine::Plugin.register plugin_name do
   name 'Vhod Environment Favicon'
-  description 'Changes favicon in dependency of user rights(admin or user) and environment(development, test, production)'
+  description 'Changes favicon in dependency of environment(development, test or production)'
   author 'ELINS'
   version '0.0.1'
 
