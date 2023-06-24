@@ -1,4 +1,4 @@
-Vhod Environment Favicon
+Redmine Environment Favicon
 ===================
 
 This plugin changes a favicon in dependency on environment.
